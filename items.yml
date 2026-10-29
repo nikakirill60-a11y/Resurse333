@@ -1,0 +1,32 @@
+items:
+  ruby_sword:
+    material: DIAMOND_SWORD
+    name: '&c&lРубиновый меч'
+    lore:
+      - '&7Клинок, выкованный из рубина.'
+      - '&eРедкость: легендарная'
+    custom-model-data: 1001
+    enchants:
+      sharpness: 5
+      fire_aspect: 2
+    recipe:
+      enabled: true
+      shape:
+        - ' R '
+        - ' R '
+        - ' S '
+      ingredients:
+        R: REDSTONE_BLOCK
+        S: STICK
+
+  healing_gem:
+    material: EMERALD
+    name: '&aКамень исцеления'
+    lore:
+      - '&7Пока это только кастомный предмет.'
+    custom-model-data: 1002
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
