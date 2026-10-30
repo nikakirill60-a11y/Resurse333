@@ -9018,3 +9018,1602 @@ items:
       enabled: false
       shape: []
       ingredients: {}
+
+  teyvat_amos_bow:
+    material: BOW
+    name: 'Лук Амоса'
+    lore:
+      - '&7Модель: teyvat/bow/amos_bow'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1694
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_end_of_the_line:
+    material: BOW
+    name: 'Конец пути'
+    lore:
+      - '&7Модель: teyvat/bow/end_of_the_line'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1695
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_hamayumi:
+    material: BOW
+    name: 'Хамаями'
+    lore:
+      - '&7Модель: teyvat/bow/hamayumi'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1696
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_skyward_harp:
+    material: BOW
+    name: 'Небесная Арфа'
+    lore:
+      - '&7Модель: teyvat/bow/skyward_harp'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1697
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_thundering_pulse:
+    material: BOW
+    name: 'Громовой Пульс'
+    lore:
+      - '&7Модель: teyvat/bow/thundering_pulse'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1698
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_altyn_helmet:
+    material: CARVED_PUMPKIN
+    name: 'шлем Алтын'
+    lore:
+      - '&7Модель: somies/altyn_helmet'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1699
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_apple:
+    material: CARVED_PUMPKIN
+    name: 'яблоко'
+    lore:
+      - '&7Модель: somies/apple'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1700
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_apple_with_arrow:
+    material: CARVED_PUMPKIN
+    name: 'яблоко со стрелой'
+    lore:
+      - '&7Модель: somies/apple_with_arrow'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1701
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_arrow:
+    material: CARVED_PUMPKIN
+    name: 'Стрела'
+    lore:
+      - '&7Модель: somies/arrow'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1702
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_balaklava:
+    material: CARVED_PUMPKIN
+    name: 'балаклава'
+    lore:
+      - '&7Модель: somies/balaklava'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1703
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_bear_hat:
+    material: CARVED_PUMPKIN
+    name: 'медвежья шапка'
+    lore:
+      - '&7Модель: somies/bear_hat'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1704
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_beekeepers_mask:
+    material: CARVED_PUMPKIN
+    name: 'маска пчеловода'
+    lore:
+      - '&7Модель: somies/beekeeper_mask'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1705
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_cake:
+    material: CARVED_PUMPKIN
+    name: 'торт'
+    lore:
+      - '&7Модель: somies/cake'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1706
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_cardboard_box:
+    material: CARVED_PUMPKIN
+    name: 'картонная коробка'
+    lore:
+      - '&7Модель: somies/cardboard_box'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1707
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_chef_toque:
+    material: CARVED_PUMPKIN
+    name: 'поварской колпак'
+    lore:
+      - '&7Модель: somies/chef_toque'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1708
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_christmas_hat:
+    material: CARVED_PUMPKIN
+    name: 'Новогодний колпак'
+    lore:
+      - '&7Модель: somies/christmas_hat'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1709
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_cigarette:
+    material: CARVED_PUMPKIN
+    name: 'сигарета'
+    lore:
+      - '&7Модель: somies/cigarette'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1710
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_cowboy_hat:
+    material: CARVED_PUMPKIN
+    name: 'Ковбойская шляпа'
+    lore:
+      - '&7Модель: somies/cowboy_hat'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1711
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_crown:
+    material: CARVED_PUMPKIN
+    name: 'корона'
+    lore:
+      - '&7Модель: somies/crown'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1712
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_disguise:
+    material: CARVED_PUMPKIN
+    name: 'маскировка'
+    lore:
+      - '&7Модель: somies/disguise'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1713
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_diving_helmet:
+    material: CARVED_PUMPKIN
+    name: 'подводный шлем'
+    lore:
+      - '&7Модель: somies/diving_helmet'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1714
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_elf_hat:
+    material: CARVED_PUMPKIN
+    name: 'эльфийский колпак'
+    lore:
+      - '&7Модель: somies/elf_hat'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1715
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_fire:
+    material: CARVED_PUMPKIN
+    name: 'огонь'
+    lore:
+      - '&7Модель: somies/fire'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1716
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_fox_racoon_hat:
+    material: CARVED_PUMPKIN
+    name: 'Лисья шапка'
+    lore:
+      - '&7Модель: somies/foxhat'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1717
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_frog:
+    material: CARVED_PUMPKIN
+    name: 'жаба'
+    lore:
+      - '&7Модель: somies/frog'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1718
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_gas_mask:
+    material: CARVED_PUMPKIN
+    name: 'Противогаз'
+    lore:
+      - '&7Модель: somies/gas_mask'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1719
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_graduation_cap:
+    material: CARVED_PUMPKIN
+    name: 'Шляпа выпускника'
+    lore:
+      - '&7Модель: somies/graduation_cap'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1720
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_guzzler_helmet:
+    material: CARVED_PUMPKIN
+    name: 'шлем обжора'
+    lore:
+      - '&7Модель: somies/guzzler_helmet'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1721
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_headphones:
+    material: CARVED_PUMPKIN
+    name: 'наушники'
+    lore:
+      - '&7Модель: somies/headphones'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1722
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_kabuto_helmet:
+    material: CARVED_PUMPKIN
+    name: 'кабуто'
+    lore:
+      - '&7Модель: somies/kabuto'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1723
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_microphone:
+    material: CARVED_PUMPKIN
+    name: 'Микрофон'
+    lore:
+      - '&7Модель: somies/microphone'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1724
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_mlgglasses:
+    material: CARVED_PUMPKIN
+    name: 'mlg очки'
+    lore:
+      - '&7Модель: somies/mlgglasses'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1725
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_mushroom_hat:
+    material: CARVED_PUMPKIN
+    name: 'грибная шляпа'
+    lore:
+      - '&7Модель: somies/mushroom_hat'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1726
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_nimbus:
+    material: CARVED_PUMPKIN
+    name: 'нимб'
+    lore:
+      - '&7Модель: somies/nimbus'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1727
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_plague_doc_mask:
+    material: CARVED_PUMPKIN
+    name: 'Маска чумного доктора'
+    lore:
+      - '&7Модель: somies/plague_doc_mask'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1728
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_propeller_hat:
+    material: CARVED_PUMPKIN
+    name: 'Кепка с пропеллером'
+    lore:
+      - '&7Модель: somies/propeller_hat'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1729
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_reindeer_antlers:
+    material: CARVED_PUMPKIN
+    name: 'оленьи рога'
+    lore:
+      - '&7Модель: somies/reindeer_antlers'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1730
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_respirator:
+    material: CARVED_PUMPKIN
+    name: 'респиратор'
+    lore:
+      - '&7Модель: somies/respirator'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1731
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_safety_helmet:
+    material: CARVED_PUMPKIN
+    name: 'каска'
+    lore:
+      - '&7Модель: somies/safety_helmet'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1732
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_sombrero:
+    material: CARVED_PUMPKIN
+    name: 'сомбреро'
+    lore:
+      - '&7Модель: somies/sombrero'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1733
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_somie:
+    material: CARVED_PUMPKIN
+    name: 'Соми'
+    lore:
+      - '&7Модель: somies/somie'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1734
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_soul_fire:
+    material: CARVED_PUMPKIN
+    name: 'огонь душ'
+    lore:
+      - '&7Модель: somies/soul_fire'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1735
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_stalker_gas_mask:
+    material: CARVED_PUMPKIN
+    name: 'Противогаз сталкера'
+    lore:
+      - '&7Модель: somies/stalker_gas_mask'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1736
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_straw_hat:
+    material: CARVED_PUMPKIN
+    name: 'соломенная шляпа'
+    lore:
+      - '&7Модель: somies/straw_hat'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1737
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_tall_top_hat:
+    material: CARVED_PUMPKIN
+    name: 'высокий цилиндр'
+    lore:
+      - '&7Модель: somies/tall_top_hat'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1738
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_top_hat:
+    material: CARVED_PUMPKIN
+    name: 'цилиндр'
+    lore:
+      - '&7Модель: somies/top_hat'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1739
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_tv:
+    material: CARVED_PUMPKIN
+    name: 'тв'
+    lore:
+      - '&7Модель: somies/tv'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1740
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_ushanka:
+    material: CARVED_PUMPKIN
+    name: 'ушанка'
+    lore:
+      - '&7Модель: somies/ushanka'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1741
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_vr:
+    material: CARVED_PUMPKIN
+    name: 'вр'
+    lore:
+      - '&7Модель: somies/vr'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1742
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  somies_welder_helmet:
+    material: CARVED_PUMPKIN
+    name: 'сварочная маска'
+    lore:
+      - '&7Модель: somies/welder_helmet'
+      - '&8Пакет: Somies Variable Hats'
+    custom-model-data: 1743
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_cranes_echoing_call:
+    material: CROSSBOW
+    name: 'Зов Журавлей'
+    lore:
+      - '&7Модель: teyvat/catalyst/cranes_echoing_call'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1744
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_jadefalls_splendor:
+    material: CROSSBOW
+    name: 'Великолепие Нефрита'
+    lore:
+      - '&7Модель: teyvat/catalyst/jadefalls_splendor'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1745
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_kaguras_verity:
+    material: CROSSBOW
+    name: 'Истинность Кагуры'
+    lore:
+      - '&7Модель: teyvat/catalyst/kaguras_verity'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1746
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_memory_of_dust:
+    material: CROSSBOW
+    name: 'Память Праха'
+    lore:
+      - '&7Модель: teyvat/catalyst/memory_of_dust'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1747
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_skyward_atlas:
+    material: CROSSBOW
+    name: 'Небесный Атлас'
+    lore:
+      - '&7Модель: teyvat/catalyst/skyward_atlas'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1748
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_surfs_up:
+    material: CROSSBOW
+    name: 'Вверх по волнам'
+    lore:
+      - '&7Модель: teyvat/catalyst/surfs_up'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1749
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_tulaytullas_remembrance:
+    material: CROSSBOW
+    name: 'Память Тулайтуллы'
+    lore:
+      - '&7Модель: teyvat/catalyst/tulaytullas_remembrance'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1750
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_beacon_of_the_reed_sea:
+    material: DIAMOND_AXE
+    name: 'Маяк Тростникового Моря'
+    lore:
+      - '&7Модель: teyvat/claymore/beacon_of_the_reed_sea'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1751
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_favonius_greatsword:
+    material: DIAMOND_AXE
+    name: 'Великий меч Фавониуса'
+    lore:
+      - '&7Модель: teyvat/claymore/favonius_greatsword'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1752
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_redhorn_stonethresher:
+    material: DIAMOND_AXE
+    name: 'Красный Рог: Камнеруб'
+    lore:
+      - '&7Модель: teyvat/claymore/redhorn_stonethresher'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1753
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_verdict:
+    material: DIAMOND_AXE
+    name: 'Вердикт'
+    lore:
+      - '&7Модель: teyvat/claymore/verdict'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1754
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_wolfs_gravestone:
+    material: DIAMOND_AXE
+    name: 'Волчья Могила'
+    lore:
+      - '&7Модель: teyvat/claymore/wolfs_gravestone'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1755
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_diamond_breastplate_icon:
+    material: DIAMOND_CHESTPLATE
+    name: 'Алмазный Нагрудник'
+    lore:
+      - '&7Модель: dees/armor/diamond_breastplate_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1756
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_diamond_cuirass_icon:
+    material: DIAMOND_CHESTPLATE
+    name: 'Алмазная Кираса'
+    lore:
+      - '&7Модель: dees/armor/diamond_cuirass_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1757
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_diamond_full_icon:
+    material: DIAMOND_CHESTPLATE
+    name: 'Алмазный полный доспех'
+    lore:
+      - '&7Модель: dees/armor/diamond_full_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1758
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_diamond_gloves_icon:
+    material: DIAMOND_CHESTPLATE
+    name: 'Алмазные перчатки'
+    lore:
+      - '&7Модель: dees/armor/diamond_gloves_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1759
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_diamond_shoulderpad_icon:
+    material: DIAMOND_CHESTPLATE
+    name: 'Алмазный наплечник'
+    lore:
+      - '&7Модель: dees/armor/diamond_shoulderpad_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1760
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_diamond_barbuta_icon:
+    material: DIAMOND_HELMET
+    name: 'Алмазная Барбута'
+    lore:
+      - '&7Модель: dees/armor/diamond_barbuta_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1761
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_diamond_crown_icon:
+    material: DIAMOND_HELMET
+    name: 'Алмазная Корона'
+    lore:
+      - '&7Модель: dees/armor/diamond_crown_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1762
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_diamond_greathelm_icon:
+    material: DIAMOND_HELMET
+    name: 'Алмазный тяжёлый шлем'
+    lore:
+      - '&7Модель: dees/armor/diamond_greathelm_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1763
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_invis_horse_armor_icon:
+    material: DIAMOND_HORSE_ARMOR
+    name: 'Невидимая броня для лошади'
+    lore:
+      - '&7Модель: dees/armor/invis_horse_armor_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1764
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_diamond_greaves_icon:
+    material: DIAMOND_LEGGINGS
+    name: 'Алмазные наголенники'
+    lore:
+      - '&7Модель: dees/armor/diamond_greaves_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1765
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_absolution:
+    material: DIAMOND_SWORD
+    name: 'Абсолюция'
+    lore:
+      - '&7Модель: teyvat/sword/absolution'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1766
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_ballad_of_the_fjords:
+    material: DIAMOND_SWORD
+    name: 'Баллада Фьордов'
+    lore:
+      - '&7Модель: teyvat/polearm/ballad_of_the_fjords'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1767
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_crimson_moons_semblance:
+    material: DIAMOND_SWORD
+    name: 'Облик Багровой Луны'
+    lore:
+      - '&7Модель: teyvat/polearm/crimson_moons_semblance'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1768
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_dragons_bane:
+    material: DIAMOND_SWORD
+    name: 'Клеймо Дракона'
+    lore:
+      - '&7Модель: teyvat/polearm/dragons_bane'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1769
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_engulfing_lightning:
+    material: DIAMOND_SWORD
+    name: 'Поглощающая Молния'
+    lore:
+      - '&7Модель: teyvat/polearm/engulfing_lightning'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1770
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_fleuve_cendre_ferryman:
+    material: DIAMOND_SWORD
+    name: 'Перевозчик Пепельной Реки'
+    lore:
+      - '&7Модель: teyvat/sword/fleuve_cendre_ferryman'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1771
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_freedom_sworn:
+    material: DIAMOND_SWORD
+    name: 'Скованные Свободой'
+    lore:
+      - '&7Модель: teyvat/sword/freedom_sworn'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1772
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_key_of_khaj_nisut:
+    material: DIAMOND_SWORD
+    name: 'Ключ Кхадж-Нисут'
+    lore:
+      - '&7Модель: teyvat/sword/key_of_khaj_nisut'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1773
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_lithic_spear:
+    material: DIAMOND_SWORD
+    name: 'Копьё Литика'
+    lore:
+      - '&7Модель: teyvat/polearm/lithic_spear'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1774
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_lumidouce_elegy:
+    material: DIAMOND_SWORD
+    name: 'Элегия Люмидоус'
+    lore:
+      - '&7Модель: teyvat/polearm/lumidouce_elegy'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1775
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_mistsplitter_reforged:
+    material: DIAMOND_SWORD
+    name: 'Возрождённый Рассекатель Туманов'
+    lore:
+      - '&7Модель: teyvat/sword/mistsplitter_reforged'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1776
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_primordial_jade_cutter:
+    material: DIAMOND_SWORD
+    name: 'Древний Нефритовый Резец'
+    lore:
+      - '&7Модель: teyvat/sword/primordial_jade_cutter'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1777
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_primordial_jade_winged_spear:
+    material: DIAMOND_SWORD
+    name: 'Крылатое Нефритовое Копьё'
+    lore:
+      - '&7Модель: teyvat/polearm/primordial_jade_winged_spear'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1778
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_skyward_spine:
+    material: DIAMOND_SWORD
+    name: 'Небесный Хребет'
+    lore:
+      - '&7Модель: teyvat/polearm/skyward_spine'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1779
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_staff_of_homa:
+    material: DIAMOND_SWORD
+    name: 'Посох Хомы'
+    lore:
+      - '&7Модель: teyvat/polearm/staff_of_homa'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1780
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_staff_of_the_scarlet_sands:
+    material: DIAMOND_SWORD
+    name: 'Посох Алых Песков'
+    lore:
+      - '&7Модель: teyvat/polearm/staff_of_the_scarlet_sands'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1781
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_the_catch:
+    material: DIAMOND_SWORD
+    name: 'Улов'
+    lore:
+      - '&7Модель: teyvat/polearm/the_catch'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1782
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_toukabou_shigure:
+    material: DIAMOND_SWORD
+    name: 'Токабо Сигурэ'
+    lore:
+      - '&7Модель: teyvat/sword/toukabou_shigure'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1783
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  teyvat_vortex_vanquisher:
+    material: DIAMOND_SWORD
+    name: 'Покоритель Вихрей'
+    lore:
+      - '&7Модель: teyvat/polearm/vortex_vanquisher'
+      - '&8Пакет: Teyvat Weapon Collection'
+    custom-model-data: 1784
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_golden_breastplate_icon:
+    material: GOLDEN_CHESTPLATE
+    name: 'Золотой Нагрудник'
+    lore:
+      - '&7Модель: dees/armor/golden_breastplate_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1785
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_golden_cuirass_icon:
+    material: GOLDEN_CHESTPLATE
+    name: 'Золотая Кираса'
+    lore:
+      - '&7Модель: dees/armor/golden_cuirass_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1786
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_golden_full_icon:
+    material: GOLDEN_CHESTPLATE
+    name: 'Золотой полный доспех'
+    lore:
+      - '&7Модель: dees/armor/golden_full_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1787
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_golden_gloves_icon:
+    material: GOLDEN_CHESTPLATE
+    name: 'Золотые перчатки'
+    lore:
+      - '&7Модель: dees/armor/golden_gloves_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1788
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_golden_shoulderpad_icon:
+    material: GOLDEN_CHESTPLATE
+    name: 'Золотой наплечник'
+    lore:
+      - '&7Модель: dees/armor/golden_shoulderpad_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1789
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_golden_barbuta_icon:
+    material: GOLDEN_HELMET
+    name: 'Золотая Барбута'
+    lore:
+      - '&7Модель: dees/armor/golden_barbuta_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1790
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_golden_crown_icon:
+    material: GOLDEN_HELMET
+    name: 'Золотая Корона'
+    lore:
+      - '&7Модель: dees/armor/golden_crown_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1791
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_golden_greathelm_icon:
+    material: GOLDEN_HELMET
+    name: 'Золотой тяжёлый шлем'
+    lore:
+      - '&7Модель: dees/armor/golden_greathelm_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1792
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_golden_greaves_icon:
+    material: GOLDEN_LEGGINGS
+    name: 'Золотые наголенники'
+    lore:
+      - '&7Модель: dees/armor/golden_greaves_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1793
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_iron_breastplate_icon:
+    material: IRON_CHESTPLATE
+    name: 'Железный Нагрудник'
+    lore:
+      - '&7Модель: dees/armor/iron_breastplate_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1794
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_iron_cuirass_icon:
+    material: IRON_CHESTPLATE
+    name: 'Железная Кираса'
+    lore:
+      - '&7Модель: dees/armor/iron_cuirass_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1795
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_iron_full_icon:
+    material: IRON_CHESTPLATE
+    name: 'Железный полный доспех'
+    lore:
+      - '&7Модель: dees/armor/iron_full_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1796
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_iron_gloves_icon:
+    material: IRON_CHESTPLATE
+    name: 'Железные перчатки'
+    lore:
+      - '&7Модель: dees/armor/iron_gloves_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1797
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_iron_shoulderpad_icon:
+    material: IRON_CHESTPLATE
+    name: 'Железный наплечник'
+    lore:
+      - '&7Модель: dees/armor/iron_shoulderpad_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1798
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_iron_barbuta_icon:
+    material: IRON_HELMET
+    name: 'Железная Барбута'
+    lore:
+      - '&7Модель: dees/armor/iron_barbuta_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1799
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_iron_crown_icon:
+    material: IRON_HELMET
+    name: 'Железная Корона'
+    lore:
+      - '&7Модель: dees/armor/iron_crown_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1800
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_iron_greathelm_icon:
+    material: IRON_HELMET
+    name: 'Железный тяжёлый шлем'
+    lore:
+      - '&7Модель: dees/armor/iron_greathelm_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1801
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_iron_greaves_icon:
+    material: IRON_LEGGINGS
+    name: 'Железные наголенники'
+    lore:
+      - '&7Модель: dees/armor/iron_greaves_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1802
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_invis_boots_icon:
+    material: NETHERITE_BOOTS
+    name: 'Невидимые сапоги'
+    lore:
+      - '&7Модель: dees/armor/invis_boots_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1803
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_invis_chestplate_icon:
+    material: NETHERITE_CHESTPLATE
+    name: 'Невидимый нагрудник'
+    lore:
+      - '&7Модель: dees/armor/invis_chestplate_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1804
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_netherite_breastplate_icon:
+    material: NETHERITE_CHESTPLATE
+    name: 'Незеритовый Нагрудник'
+    lore:
+      - '&7Модель: dees/armor/netherite_breastplate_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1805
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_netherite_cuirass_icon:
+    material: NETHERITE_CHESTPLATE
+    name: 'Незеритовая Кираса'
+    lore:
+      - '&7Модель: dees/armor/netherite_cuirass_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1806
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_netherite_full_icon:
+    material: NETHERITE_CHESTPLATE
+    name: 'Незеритовый полный доспех'
+    lore:
+      - '&7Модель: dees/armor/netherite_full_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1807
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_netherite_gloves_icon:
+    material: NETHERITE_CHESTPLATE
+    name: 'Незеритовые перчатки'
+    lore:
+      - '&7Модель: dees/armor/netherite_gloves_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1808
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_netherite_shoulderpad_icon:
+    material: NETHERITE_CHESTPLATE
+    name: 'Незеритовый наплечник'
+    lore:
+      - '&7Модель: dees/armor/netherite_shoulderpad_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1809
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_invis_helmet_icon:
+    material: NETHERITE_HELMET
+    name: 'Невидимый шлем'
+    lore:
+      - '&7Модель: dees/armor/invis_helmet_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1810
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_netherite_barbuta_icon:
+    material: NETHERITE_HELMET
+    name: 'Незеритовая Барбута'
+    lore:
+      - '&7Модель: dees/armor/netherite_barbuta_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1811
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_netherite_crown_icon:
+    material: NETHERITE_HELMET
+    name: 'Незеритовая Корона'
+    lore:
+      - '&7Модель: dees/armor/netherite_crown_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1812
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_netherite_greathelm_icon:
+    material: NETHERITE_HELMET
+    name: 'Незеритовый тяжёлый шлем'
+    lore:
+      - '&7Модель: dees/armor/netherite_greathelm_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1813
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_invis_leggings_icon:
+    material: NETHERITE_LEGGINGS
+    name: 'Невидимые поножи'
+    lore:
+      - '&7Модель: dees/armor/invis_leggings_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1814
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_netherite_greaves_icon:
+    material: NETHERITE_LEGGINGS
+    name: 'Незеритовые наголенники'
+    lore:
+      - '&7Модель: dees/armor/netherite_greaves_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1815
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
+
+  dees_invis_wolf_armor_icon:
+    material: WOLF_ARMOR
+    name: 'Невидимая броня волка'
+    lore:
+      - '&7Модель: dees/armor/invis_wolf_armor_icon'
+      - '&8Пакет: Dee''s Extended Equipment'
+    custom-model-data: 1816
+    enchants: {}
+    recipe:
+      enabled: false
+      shape: []
+      ingredients: {}
